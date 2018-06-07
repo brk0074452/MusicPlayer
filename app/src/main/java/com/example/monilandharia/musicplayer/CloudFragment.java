@@ -17,7 +17,7 @@ public class CloudFragment extends Fragment {
     public CloudFragment() {
         // Required empty public constructor
     }
-
+//Hello
 
     @Override
     public View onCreateView(LayoutInflater inflater, ViewGroup container,
